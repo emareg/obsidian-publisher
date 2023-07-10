@@ -1,6 +1,8 @@
 ---
 title: "Universal Project Folder Structure"
-category: "Tech"
+author: Emanuel Regnath
+date: "2022-12-13"
+category: Tech
 share: true
 ---
 
