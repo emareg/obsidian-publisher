@@ -1,4 +1,4 @@
-site_name: EmaReg Docs
+site_name: 2nd Brain
 site_description: A collection of notes
 site_url: https://docs.emareg.de
 
@@ -8,16 +8,16 @@ theme:
     favicon: assets/meta/favicons.png
     custom_dir: overrides
     font:
-        text: Ubuntu
-        code: Ubuntu Mono
+        text: Crimson Text
+        code: Source Code Pro
     language: en
     palette:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: light blue
+      primary: brown
+      accent: pink
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -94,8 +94,6 @@ plugins:
       custom-attributes: 'assets/css/custom_attributes.css'
   - custom-attributes:
       file: 'assets/css/custom_attributes.css'
-  - tags:
-      tags_file: tags.md
   - encryptcontent:
       title_prefix: '🔐'
       summary: 'Private page'
@@ -121,6 +119,7 @@ extra_css:
     - assets/css/admonition.css
     - assets/css/custom_attributes.css
     - assets/css/customization.css
+    - assets/css/mkdocs-classless.css
 extra:
   SEO: assets/meta/SEO.png
   comments: false #disable comments globally
