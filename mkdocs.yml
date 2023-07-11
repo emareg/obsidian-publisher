@@ -1,4 +1,4 @@
-site_name: 2nd Brain
+site_name: EmaReg's 2nd Brain
 site_description: A collection of notes
 site_url: https://docs.emareg.de
 
@@ -25,16 +25,15 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: indigo
+      primary: brown
+      accent: pink
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
     features:
         - navigation.indexes
-        - navigation.top
-        - navigation.tabs
-        - navigation.tabs.sticky
+        # - navigation.top
+        # - navigation.tabs
         - navigation.expand
         - search.suggest
         - search.highlight
