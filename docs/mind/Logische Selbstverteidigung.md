@@ -1,14 +1,15 @@
 ---
+type: doc
 title: "Logische Selbstverteidigung"
 author: Emanuel Regnath
 date: "2022-09-30"
 lang: de
 share: true
+category: mind
 ---
-
+👨‍🔬 E. Regnath · 📆 Sep. 2022 · 🧪 v2 · 🇩🇪
 
 Schluss mit dem Debattierbrei! Lerne die drei Arten von Scheinargumenten mit Beispielen und werde noch heute zum Diskussions-Ninja mit einem schwarzem Gürtel „Lo-Gi-Do“.
-
 
 Zur Erinnerung: Argumente sind logisch und korrekt, wenn die Schlussfolgerung notwendig aus relevanten und hinreichenden Prämissen folgt.
 
@@ -143,7 +144,7 @@ Das Alter wird als Argument benutzt. Etwas ist wahr/gut, weil es schon immer so 
 Überzeugungsversuch durch Aussagen, die starke Emotionen wie Angst, Wut, oder Scham auslösen.
 
 >[!example] Beispiel: 
-„Bevor Du Amen sagen kannst, gibt es mehr Moscheen als Kirchen.“
+>„Bevor Du Amen sagen kannst, gibt es mehr Moscheen als Kirchen.“
 
 >[!question]- Warum ist das falsch?
 >Eine starke Emotion überdeckt die Suche nach objektiven Fakten. Im Beispiel ist die schwache Prämisse, dass Moscheen an sich etwas schlechtes sind oder dass mehr Moscheen als Kirchen verhindern, dass Christen ihrer Religion weiterhin nachgehen können.
@@ -154,7 +155,7 @@ Das Alter wird als Argument benutzt. Etwas ist wahr/gut, weil es schon immer so 
 Durch geschicktes Verschweigen von relevanten Informationen, bzw. einstreuen von irrelevanten Informationen wird die Auswahl an Alternativen so manipuliert, dass nur eine davon richtig erscheint.
 
 >[!example] Beispiel: 
-„Die Irakische Regierung produziert bereits chemische und biologische Waffen, also wird sie auch Atomwaffen produzieren.“
+>„Die Irakische Regierung produziert bereits chemische und biologische Waffen, also wird sie auch Atomwaffen produzieren.“
 
 
 
