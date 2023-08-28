@@ -7,11 +7,13 @@ DONT FORGET TO EDIT THE URL
 */
 
 
-.admonition.note { border-color: #3b8bba; }
-.admonition.example { border-color: #982c61; }
-.admonition.example>.admonition-title {  background-color: #982c611a; }
-.admonition.question { border-color: #1d7484; }
-.admonition.question>.admonition-title {  background-color: #1d74841a; }
+.admonition.note { border-color: #3b8bba!important; }
+.admonition.example { border-color: #982c61!important; }
+.admonition.example>.admonition-title {  background-color: #982c611a!important; }
+.admonition.question { border-color: #1d7484!important; }
+.admonition.question>.admonition-title,
+.admonition.question>summary
+{  background-color: #1d74841a; }
 
 .md-typeset details.wiki,
 .md-typeset .admonition.wiki {
