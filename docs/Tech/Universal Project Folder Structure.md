@@ -6,36 +6,35 @@ category: Tech
 share: true
 ---
 
-# Universal Project Folder Structure
-
 I have many projects. Some are research, some are code, some are physical DIYs, and some are pure documentation. Most projects start small but quickly grow into a mess, if I do not enforce a clean structure on them. What if we could organize most projects with a similar folder structure, such that it is easy for you and for others to navigate the folders and understand where each file belongs?
 
 Here is my proposal for a folder structure that can be applied on almost all your file-based coding projects:
 
 ```
-project-name/
-│
-├─ build/         the final generated product
-├─ docs/          description of the product
+project-name/ 
+│  
+├─ build/         the final generated product  
+├─ docs/          description of the product  
 ├─ lib/           external dependencies maintained elsewhere
-├─ make/          toolchain for making the product
-│  ├─ config/
-│  └─ tools/
-├─ res/           static resources like images/audio
-│  ├─ img/
-│  │  └─ dia/
-│  └─ css/
-├─ src/           blueprint of the product**,** e.g. code
-├─ test/          quality assurance of the product
-├─ tmp/           ALL temporary generated files
-│  ├─ objs/
-│  └─ logs/
-├─ xtra/          extra files not belonging elsewhere
-├─ Makefile       Trigger for setup/build/install
+├─ make/          toolchain for making the product  
+│  ├─ config/  
+│  └─ tools/  
+├─ res/           static resources like images/audio  
+│  ├─ img/  
+│  │  └─ dia/  
+│  └─ css/  
+├─ src/           blueprint of the product**,** e.g. code  
+├─ test/          quality assurance of the product  
+├─ tmp/           ALL temporary generated files  
+│  ├─ objs/  
+│  └─ logs/  
+├─ xtra/          extra files not belonging elsewhere  
+├─ Makefile       Trigger for setup/build/install  
 └─ README.md      Information entry point
 ```
 
-# Features — Why should you use this?
+
+## Features — Why should you use this?
 
 - most important user folders (`build`, `docs`) are sorted to the top. (you could also rename `build` to `app` or `bin`)
 - least important folders (`tmp`, `extra`) are sorted to the bottom.
