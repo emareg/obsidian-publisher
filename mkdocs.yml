@@ -9,7 +9,7 @@ theme:
     custom_dir: overrides
     font:
         text: Crimson Text
-        code: Source Code Pro
+        code: monospace
     language: en
     palette:
 
