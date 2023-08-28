@@ -7,13 +7,53 @@ DONT FORGET TO EDIT THE URL
 */
 
 
-.admonition.note { border-color: #3b8bba!important; }
-.admonition.example { border-color: #982c61!important; }
-.admonition.example>.admonition-title {  background-color: #982c611a!important; }
-.admonition.question { border-color: #1d7484!important; }
-.admonition.question>.admonition-title,
-.admonition.question>summary
-{  background-color: #1d74841a; }
+.admonition.example, details.example { border-color: #982c61!important; }
+.example>.admonition-title, .example>summary {  background-color: #982c611a!important; }
+
+/* note */
+.admonition.note { border-color: #5794D0!important; }
+.note>.admonition-title, .note>summary  { border-color: #5794D010!important; }
+.note>.admonition-title::before,
+.note>.admonition-title::after,
+.note>summary::before,
+.note>summary::after 
+{  color: #5794D0!important; background-color: #5794D0!important; }
+
+
+
+/* example */
+.admonition.example, details.example { border-color: #9481CC!important; }
+.example>.admonition-title, .example>summary {  background-color: #9481CC10!important; }
+.example>.admonition-title::before,
+.example>.admonition-title::after,
+.example>summary::before,
+.example>summary::after 
+{  color: #9481CC!important; background-color: #9481CC!important; }
+
+
+/* questions */
+.admonition.question, details.question { border-color: #47A477!important; }
+.question>.admonition-title,.question>summary {  background-color: #47A47710!important; }
+.question>.admonition-title::before,
+.question>.admonition-title::after,
+.question>summary::before,
+.question>summary::after 
+{  color: #47A477!important; background-color: #47A477!important; }
+
+
+
+/* warning */
+.admonition.warning, details.warning { border-color: #BA823A!important; }
+.warning>.admonition-title, .warning>summary {  background-color: #BA823A10!important; }
+.warning>.admonition-title::before,
+.warning>.admonition-title::after,
+.warning>summary::before,
+.warning>summary::after 
+{  color: #BA823A!important; background-color: #BA823A!important; }
+
+
+
+
 
 .md-typeset details.wiki,
 .md-typeset .admonition.wiki {

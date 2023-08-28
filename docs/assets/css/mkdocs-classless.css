@@ -21,7 +21,8 @@ body[data-md-color-scheme=slate] {
 }
 body {background-color: var(--md-default-bg-color);}
 
-body header.md-header, .md-tabs { background-color: #7c654e; }
+/* body header.md-header, .md-tabs { background-color: #7c654e; } */
+body header.md-header, .md-tabs { background-color: #635343; }
 .md-header__topic:first-child { font-weight: 400; }
 /* #554433 */
 
