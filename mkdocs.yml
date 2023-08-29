@@ -8,7 +8,7 @@ theme:
     favicon: assets/meta/favicons.png
     custom_dir: overrides
     font:
-        text: Crimson Text
+        text: Crimson Text # Josefin Sans # Kalam  # Crimson Text, Vollkorn
         code: monospace
     language: en
     palette:
