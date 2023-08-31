@@ -133,3 +133,13 @@ extra:
   hooks:
     strip_comments: true
     fix_heading: true
+
+# nav:
+#   - World
+#   - Earth
+#   - Bio
+#   - Mind
+#   - Art
+#   - Society
+#   - Tech
+#   - Info
