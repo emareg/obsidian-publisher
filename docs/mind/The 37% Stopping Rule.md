@@ -5,7 +5,7 @@ lang: en
 share: true
 category: mind
 ---
-👨‍🔬 E. Regnath · 📆 Jun. 2023 · 🧪 v-0.1 · 🇩🇪
+👨‍🔬 E. Regnath · 📆 Jun. 2023 · 🧪 v-0.2
 
 How to choose wisely if you know little: *Observe* 25%–37% of options, then *select* the next best.
 
