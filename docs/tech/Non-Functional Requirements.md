@@ -14,7 +14,7 @@ A short overview of possible NFRs.
 NFRs have many different names and can be classified according to different hierarchies/dimensions. According to ISO/IEC 25010:
 ![[iec-25010-non-functional-requirements.png]]
 
-However, some categories seem very related (compatibility & portability), some popular terms are missing (sustainability, transparancy, safety, privacy) and the overview does not provide definitions. The following list/tree is an attempt to give some concise structure to NFRs but different projects might prefer different structures.  Further NFR overviews can be found in the [global Siemens Wiki](https://wiki.siemens.com/pages/viewpage.action?pageId=288019782) and [Wikipedia](https://en.wikipedia.org/wiki/List_of_system_quality_attributes).
+However, some categories seem very related (compatibility & portability), some popular terms are missing (sustainability, transparancy, safety, privacy) and the overview does not provide definitions. The following list/tree is an attempt to give some concise structure to NFRs but different projects might prefer different structures.  Further NFR overviews can be found on [Wikipedia](https://en.wikipedia.org/wiki/List_of_system_quality_attributes).
 
 ### **🛴 [Efficiency:](https://en.wikipedia.org/wiki/Efficiency)** Consume few resources to produce/operate.
 
