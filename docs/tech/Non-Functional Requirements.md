@@ -12,7 +12,7 @@ A short overview of possible NFRs.
 -   **Non-functional requirements** specify **how** the system should be. E.g. "The system should _be secure_ against code injection attacks." 
 
 NFRs have many different names and can be classified according to different hierarchies/dimensions. According to ISO/IEC 25010:
-![[iec-25010-non-functional-requirements.png]]
+![[nfrs-iso25010.svg]]
 
 However, some categories seem very related (compatibility & portability), some popular terms are missing (sustainability, transparancy, safety, privacy) and the overview does not provide definitions. The following list/tree is an attempt to give some concise structure to NFRs but different projects might prefer different structures.  Further NFR overviews can be found on [Wikipedia](https://en.wikipedia.org/wiki/List_of_system_quality_attributes).
 
