@@ -159,6 +159,12 @@ Durch geschicktes Verschweigen von relevanten Informationen, bzw. einstreuen von
 
 
 
+## Weitere Beispiele
+
+* “Ein Kind ist ein Geschenk Gottes und Abtreibungen wären Mord und sollten verboten sein. Eine Ausnahme wäre bei Vergewaltigung da ist es noch Ok abzutreiben.”
+* “Transvestiten mit Geschlechter-Identitätsstörung, denen man eine Operation anbietet sind wie Magersüchtige mit Essstörung, denen man eine Fett-Absaugung anbieten würde.”
+
+
 ### 📚 Referenzen
 * [LukeStoneHm: „Logische Selbstverteidigung“](https://logical-defence.lukestonehm.co.za/#/)
 * [Wikipedia „Typen von Argumenten“](https://de.wikipedia.org/wiki/Typen_von_Argumenten)
