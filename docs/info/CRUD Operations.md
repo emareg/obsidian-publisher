@@ -6,8 +6,7 @@ lang: en
 share: true
 category: info
 ---
-Stands for **C**reate, **R**ead, **U**pdate and **D**elete and are the four basic operations of persistent storage.
-
+Stands for **C**reate, **R**ead, **U**pdate and **D**elete and are the four basic operations of persistent storage.
 
 | CRUD   | HTTP   | SQL    |
 | ------ | ------ | ------ |
