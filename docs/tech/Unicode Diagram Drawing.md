@@ -1,11 +1,15 @@
 ---
+type: essay
 title: "Unicode Diagram Drawing"
-author: Emanuel Regnath
+author: "Emanuel Regnath"
+lang: en
 date: "2022-09-30"
 keywords: [utf8, emoji, box, drawing, ascii]
 share: true
 category: tech
 ---
+
+
 
 You all have heard about ASCII art and have seen ASCII diagrams. But now UTF8 is default in most applications, and thus enables the creation of beautiful diagrams, like this one:
 
@@ -108,6 +112,9 @@ https://yaytext.com/bold-italic/
 ◩◪◥▤▢◱◒◔◕▣  ▟▙▗
 
 
+
+
+😀😄😊😉🧬🛡🔍🔎✒⌛
 ## 🙂 Useful Emoji Set
 Unicode Emojis can be used to make concepts more visually appealing.
 
